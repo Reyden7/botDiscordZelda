@@ -1,0 +1,2 @@
+token : Nzc1NzcxODI1MjkxNTI2MTg0.X6rL0A.YvPjtEtqSPOqo_K7VtXBnC756j0
+lien invitation : https://discord.com/api/oauth2/authorize?client_id=775771825291526184&permissions=8&scope=bot
