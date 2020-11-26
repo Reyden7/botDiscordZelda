@@ -1282,4 +1282,4 @@ client.on("message", async (message) => {
 
 client.on('error', console.error); // Afficher les erreurs
 
-client.login('Nzc1NzcxODI1MjkxNTI2MTg0.X6rL0A.YvPjtEtqSPOqo_K7VtXBnC756j0');
+client.login(process.env.TOKEN);
