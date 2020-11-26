@@ -17,5 +17,5 @@
     "parse-ms": "^2.1.0",
     "quick.db": "^7.1.3"
   }
-  "start": "node bot.js"
+ 
 }
