@@ -1282,4 +1282,4 @@ client.on("message", async (message) => {
 
 client.on('error', console.error); // Afficher les erreurs
 
-client.login(process.env.TOKEN);
+client.login(process.env.BOT_TOKEN);
